@@ -4,7 +4,7 @@ Seed contact microservice using nodejs. Made by Jenius.
 
 ## APIs
 
-This project exposes some APIs for healthchecking.
+This project exposes some APIs.
 
 | Method | Endpoint | Demonstrates | 
 |---|---|---| 
@@ -181,4 +181,6 @@ Content-Length: 33
 
 ## Owner
 
-Jenius, Rheza Satria, PT. BTPN (c) 2017
+Jenius, PT. BTPN (c) 2017
+1. Rheza Satria
+2. Gregory Sukanto
